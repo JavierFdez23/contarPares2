@@ -8,6 +8,7 @@ public class ContarPares {
 			if (i % 2 == 0)
 				contadorPares++;
 		}
+		//imprimir resultado para saber si es par o no
 		System.out.println("Hay " + contadorPares + " numeros pares del 0 al 10");
 	}
 
